@@ -1,10 +1,11 @@
 # Sierra-Leon
 
-A simple and beautiful backend starter made with **express** and **JWT**.
+A beautiful API template with JWT authentication made with Express and TypeScript.
 
-Specifications: 
+
+> Specifications: 
 
 - Password Hashing: `Argon2`
 - Language: `TypeScript`
 - Runtime: `TS-Node`
-- Compatiblity: `Nuxt`
+- Database ORM: `Prisma`
